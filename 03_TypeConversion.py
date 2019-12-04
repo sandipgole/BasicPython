@@ -1,0 +1,8 @@
+dob=input("dob: ")
+print(type(dob))
+age=2019-int(dob)
+print(age)
+print(type(age))
+weight=input("Your weight in KG ")
+gram=1000*int(weight)
+print(gram)

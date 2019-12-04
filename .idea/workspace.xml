@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8fd5414-5dca-4e46-b74e-8da674f352c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Arithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormatedString.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathFunction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OperatorPrecedence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeConversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringMethods.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1U93hbBoZtAdQQI9rIj7gK8H7vf" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8fd5414-5dca-4e46-b74e-8da674f352c1" name="Default Changelist" comment="" />
+      <created>1575427916986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575427916986</updated>
+    </task>
+    <servers />
+  </component>
+</project>
